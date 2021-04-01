@@ -11,3 +11,6 @@ Usage:
    To clarify, each line should have a name, followed by 1 space, then another string used to denote what 'family' each person is apart of, if there isn't a need for family identifiers give each person a unique family_id.
 4. Run the built .exe or other run file
 5. An output file will appear in the working directory called "output.txt" with each line saying who each person's secret santa is.
+
+Here are example input and output files:
+![Examples](example.png)
