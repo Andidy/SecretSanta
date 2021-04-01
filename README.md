@@ -13,4 +13,5 @@ Usage:
 5. An output file will appear in the working directory called "output.txt" with each line saying who each person's secret santa is.
 
 Here are example input and output files:
+
 ![Examples](example.png)
